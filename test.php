@@ -1,3 +1,4 @@
 <?php
 
-    echo 1;
+    echo 1222;
+    echo 4;
